@@ -19,5 +19,5 @@
  </div>
 </main>
 <footer>
-  <p><a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/">LINKEDIN</a>
+  <p><a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/" target_blank>LINKEDIN</a>
   
