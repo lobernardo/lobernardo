@@ -1,7 +1,11 @@
-
-<head>
-  <title>Leonardo, 32 anos e natural do Rio de janeiro.</title>
-</head>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Processo de vendas Outbound">
+        <meta name="viewport" content="width-device=width, initial-scale=1.0">
+        <title>Front End Developer</title>
+        <link rel="stylesheet" href="estilos.css">
 <body>
 <header>
   <img src="https://neofeed.com.br/wp-content/uploads/2021/10/desenvolvedor.jpg">
