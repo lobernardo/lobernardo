@@ -19,5 +19,6 @@
  </div>
 </main>
 <footer>
-  <a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/" target ="_blank">LINKEDIN</a>
+  <p><a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/" target ="_blank">LINKEDIN</a></p>
+  <p><a href="+54 11 5514-9712">TELEFONE</a></p>
   
