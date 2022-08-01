@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <style type="text/css">
         <meta charset="utf-8">
-        <meta name="description" content="Processo de vendas Outbound">
+        <meta name="description" content="Readme Github">
         <meta name="viewport" content="width-device=width, initial-scale=1.0">
         <title>Front End Developer</title>
-        <link rel="stylesheet" href="estilos.css">
 <body>
 <header>
-  <img src="https://neofeed.com.br/wp-content/uploads/2021/10/desenvolvedor.jpg">
-  <h1 class="titulo">Front End Developer</h1>
+  <img src="https://neofeed.com.br/wp-content/uploads/2021/10/desenvolvedor.jpg" width="400" height="341">
+  <h1>Front End Developer</h1>
 </header>
 <main>
 <div class="conteudo">
