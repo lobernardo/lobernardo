@@ -1,11 +1,12 @@
 
 <body>
 <header>
-  <img src="https://neofeed.com.br/wp-content/uploads/2021/10/desenvolvedor.jpg" width="500" height="341">
   <h1>Front End Developer</h1>
 </header>
 <main>
 <div class="conteudo">
+<h1>Front End Developer</h1>
+<img src="https://neofeed.com.br/wp-content/uploads/2021/10/desenvolvedor.jpg" width="500" height="341">
   <h2>Especialidades e conhecimentos:</h2>
   <ul class="especialidades">
     <li>JAVASCRIPT</li>
