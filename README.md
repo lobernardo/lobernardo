@@ -1,5 +1,6 @@
 
-<body>
+<body> 
+style="background-color: black;"
 <header>
   
 </header>
