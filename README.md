@@ -12,8 +12,7 @@
     <li>JAVASCRIPT</li>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>BOOTSTRAP</li>
-    <li>REACT</li>
+    <li>REACT JS</li>
   </ul>
  </div>
 </main>
