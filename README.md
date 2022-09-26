@@ -6,7 +6,7 @@
 <main>
 <div class="conteudo">
 <h1>Front End Developer</h1>
-<p>Formando em ciência da computação com especialização em desenvolvimento front end</p>
+<p>Formando em ciência da computação com especialização em desenvolvimento front end.</p>
   <h2>Especialidades e conhecimentos:</h2>
   <ul class="especialidades">
     <li>JAVASCRIPT</li>
