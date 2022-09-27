@@ -6,7 +6,7 @@
 <main>
 <div class="conteudo">
 <h1>Front End Developer</h1>
-<p>Formando em ciência da computação e com especialização em desenvolvimento front end, através de inúmeros cursos profissionalizantes.</p>
+<p>Graduando em ciência da computação e com especialização em desenvolvimento front end, através de inúmeros cursos profissionalizantes já finalizados.</p>
   <h2>Especialidades e conhecimentos:</h2>
   <ul class="especialidades">
     <li>JAVASCRIPT</li>
