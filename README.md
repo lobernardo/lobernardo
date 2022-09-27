@@ -18,5 +18,5 @@
 </main>
 <footer>
   <p><a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/" target ="_blank">LINKEDIN</a></p>
-  <p><a href="mailto: leo.olivbernardo@gmail.com">Email</a></p>
+  
   
