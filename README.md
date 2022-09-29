@@ -1,6 +1,8 @@
 
 ## Olá, me chamo Leonardo! Seja bem vindo(a). 😁
 
+<p>Graduando em Ciência da computação e com especialização em Desenvolvimento Front end</p>
+
  <div>
    <a href="https://github.com/lobernardo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
