@@ -1,22 +1,28 @@
 
-<body>
-<header>
+
+## 🙋♀️ Olá! Meu nome é Leonardo! 
+
+
+<div align="center">
+  <a href="https://github.com/lobernardo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lobernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobernardo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Aline-gif" width="200" src="https://community.vtex.com/uploads/default/original/2X/c/cc41052580aaf086ae2e2677611d982592876e64.gifv">
+ 
+ 
+</div>
   
-</header>
-<main>
-<div class="conteudo">
-<h1>Front End Developer</h1>
-<p>Graduando em ciência da computação e com especialização em desenvolvimento front end, através de inúmeros cursos profissionalizantes já finalizados.</p>
-  <h2>Especialidades e conhecimentos:</h2>
-  <ul class="especialidades">
-    <li>JAVASCRIPT</li>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>REACT JS</li>
-  </ul>
- </div>
-</main>
-<footer>
-  <p><a href="https://www.linkedin.com/in/leonardo-bernardo-76366316b/" target ="_blank">LINKEDIN</a></p>
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/lobernardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/leonardo-obernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
   
-  
+</div>
