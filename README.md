@@ -1,7 +1,7 @@
 
 ## Olá, me chamo Leonardo! Seja bem vindo(a). 😁
 
-<p>Graduando em Ciência da computação e me especializando em Desenvolvimento Front end!</p>
+<p>Graduando em Ciência da computação e me especializando em Desenvolvimento Full stack!</p>
 <br><br>
 
  <div>
