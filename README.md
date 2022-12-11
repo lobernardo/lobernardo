@@ -1,7 +1,7 @@
 
 ## Olá, me chamo Leonardo! Seja bem vindo(a). 😁
 
-<p>Graduando em Ciência da computação.
+<p>Graduando em Ciência da computação.<br>
 Desenvolvedor Front End</p>
 <br><br>
 
@@ -20,7 +20,7 @@ Desenvolvedor Front End</p>
  
 </div>
  
- <br><br>
+ <br>
  
   ### Contatos!
  
